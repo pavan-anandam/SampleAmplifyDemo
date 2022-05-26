@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POC\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
+      "projectUniqueName": "D:\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
       "projectName": "Sample Amplify Demo",
-      "projectPath": "D:\\POC\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
+      "projectPath": "D:\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
       "packagesPath": "C:\\Users\\panandam\\.nuget\\packages\\",
-      "outputPath": "D:\\POC\\SampleAmplifyDemo\\obj\\",
+      "outputPath": "D:\\SampleAmplifyDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\panandam\\AppData\\Roaming\\NuGet\\NuGet.Config",

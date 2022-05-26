@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IsSxdTBiO0A+lgbqoc+GWWKCdXjxrk+f/tZ1U03Wx7kz0lhlk8XqZx6g3abaChj2jjSO8L+gUyfCjmJH6rxyKQ==",
+  "dgSpecHash": "mEZDdtEbJOPMvi3ENVVzOq9b6LX648MXzKjaDAueYRHfbqbDlYy3RPr/2rvnQ19bxekimrhHBIlSVZIEMfeK6A==",
   "success": true,
-  "projectFilePath": "D:\\POC\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
+  "projectFilePath": "D:\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
